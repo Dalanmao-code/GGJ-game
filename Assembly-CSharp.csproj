@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4B9B3E71-47BC-B220-F6D6-10337F401E99}</ProjectGuid>
+    <ProjectGuid>{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,12 +60,20 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.42f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\BackPack\BackpackController.cs" />
+    <Compile Include="Assets\Script\BackPack\DataCenter.cs" />
+    <Compile Include="Assets\Script\BackPack\Backpack.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DSplashFX.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DEffects.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DMaterialScaler.cs" />
+    <Compile Include="Assets\Script\BackPack\BackpackUIController.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DUpdateRenderTex.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DGrabRenderTex.cs" />
     <Compile Include="Assets\Script\Camera_Move.cs" />
+    <Compile Include="Assets\Script\ItemDataArray.cs" />
+    <Compile Include="Assets\Script\BackGround.cs" />
+    <Compile Include="Assets\Script\BackPack\AssetsLibrary.cs" />
+    <Compile Include="Assets\Script\Follow_.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -1064,6 +1072,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1078,10 +1090,6 @@
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
