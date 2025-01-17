@@ -14,30 +14,58 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemDataList:
   - id: 0
-    text: "\u7EBF\u7D221\uFF1A\u6211\u53EF\u4EE5\u548C\u7EBF\u7D222\u5408\u6210"
+    text: "\u7EBF\u7D221\uFF1A\u6211\u53EF\u4EE5\u548C\u7EBF\u7D222\u5408\u6210\u7EBF\u7D226"
     description: 
     iconFileName: 
-    IsImportant: 0
+    IsImportant: 1
     pairing_id: 1
-    target_id: 2
+    target_id: 5
   - id: 1
-    text: "\u7EBF\u7D222\uFF1A\u6211\u53EF\u4EE5\u548C\u7EBF\u7D221\u5408\u6210"
+    text: "\u7EBF\u7D222\uFF1A\u6211\u53EF\u4EE5\u548C\u7EBF\u7D221\u5408\u6210\u7EBF\u7D226"
     description: 
     iconFileName: 
-    IsImportant: 0
+    IsImportant: 1
     pairing_id: -1
     target_id: -1
   - id: 2
-    text: "\u6211\u662F\u7EBF\u7D223"
+    text: "\u6211\u662F\u7EBF\u7D223\uFF0C\u53EF\u4EE5\u548C\u7EBF\u7D224\u5408\u6210\u7EBF\u7D227"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: 3
+    target_id: 6
+  - id: 3
+    text: "\u6211\u7EBF\u7D22\u56DB\uFF0C\u53EF\u4EE5\u5408\u6210\u7EBF\u7D227"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 4
+    text: "\u6211\u7EBF\u7D225,\u5C31\u662F\u6765\u6478\u9C7C\u7684"
     description: 
     iconFileName: 
     IsImportant: 0
     pairing_id: -1
     target_id: -1
-  - id: 3
-    text: "\u6478\u9C7C4"
+  - id: 5
+    text: "\u7EBF\u7D22\u516D\uFF0C\u53EF\u4EE5\u548C\u7EBF\u7D22\u4E03\u5408\u6210\u6700\u7EC8\u7EBF\u7D22"
     description: 
     iconFileName: 
-    IsImportant: 0
+    IsImportant: 1
+    pairing_id: 6
+    target_id: 7
+  - id: 6
+    text: "\u7EBF\u7D22\u4E03\uFF0C\u53EF\u4EE5\u548C\u7EBF\u7D22\u516D\u5408\u6210\u6700\u7EC8\u7EBF\u7D22"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 7
+    text: "\u8FD9\u662F\u6700\u7EC8\u7EBF\u7D22\uFF0C\u4F60\u8D62\u4E86\uFF01"
+    description: 
+    iconFileName: 
+    IsImportant: 1
     pairing_id: -1
     target_id: -1

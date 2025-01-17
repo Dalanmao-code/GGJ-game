@@ -18,6 +18,8 @@ public class BackpackUIController : MonoBehaviour
     private GameObject[] lattices = new GameObject[100];
     //最大格子数
     public static int MAXLATTICE = 8;
+
+    private bool IsOpen = false; 
     void Start()
     {
 
@@ -36,6 +38,13 @@ public class BackpackUIController : MonoBehaviour
         refreshUI();
     }
 
+    private void Update()
+    {
+        if (IsOpen&&Input.GetKeyDown(KeyCode.Escape))
+        {
+            Open_Close_Back();
+        }
+    }
     // 刷新UI，更新显示的物品格子
     public void refreshUI()
     {
@@ -91,5 +100,19 @@ public class BackpackUIController : MonoBehaviour
     public static void notifyBackpackUpdated()
     {
         ONBACKPACK_UPDATED?.Invoke();
+    }
+
+    public void Open_Close_Back()
+    {
+        if (IsOpen)
+        {
+            backpack_uicontent.gameObject.SetActive(false);
+            IsOpen = !IsOpen;
+        }
+        else
+        {
+            backpack_uicontent.gameObject.SetActive(true);
+            IsOpen = !IsOpen;
+        }
     }
 }

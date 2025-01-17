@@ -14,10 +14,10 @@ public class BackGround : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Backpack.AddItem(new Item(0, DataCenter.GetItemDataByID(0), 1));
-        Backpack.AddItem(new Item(1, DataCenter.GetItemDataByID(1), 1));
-        Backpack.AddItem(new Item(3, DataCenter.GetItemDataByID(3), 1));
-        BackpackUIController.notifyBackpackUpdated();
+        //Backpack.AddItem(new Item(0, DataCenter.GetItemDataByID(0), 1));
+        //Backpack.AddItem(new Item(1, DataCenter.GetItemDataByID(1), 1));
+        //Backpack.AddItem(new Item(3, DataCenter.GetItemDataByID(3), 1));
+        //BackpackUIController.notifyBackpackUpdated();
     }
 
     // Update is called once per frame

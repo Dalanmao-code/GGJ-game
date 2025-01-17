@@ -70,8 +70,10 @@
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DUpdateRenderTex.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DGrabRenderTex.cs" />
     <Compile Include="Assets\Script\Camera_Move.cs" />
+    <Compile Include="Assets\Script\Interactive_Items.cs" />
     <Compile Include="Assets\Script\ItemDataArray.cs" />
     <Compile Include="Assets\Script\BackGround.cs" />
+    <Compile Include="Assets\Script\Interaction\Get_Obj.cs" />
     <Compile Include="Assets\Script\BackPack\AssetsLibrary.cs" />
     <Compile Include="Assets\Script\Follow_.cs" />
   </ItemGroup>
