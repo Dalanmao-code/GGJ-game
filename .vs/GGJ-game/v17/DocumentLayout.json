@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\23gj\\25ggj\\GGJ-game\\",
+  "WorkspaceRootPath": "D:\\Fork_Clone\\GGJ\\GGJ-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\fork_clone\\ggj\\ggj-game\\assets\\script\\interaction\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interaction\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\fork_clone\\ggj\\ggj-game\\assets\\script\\interactive_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interactive_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -41,38 +49,66 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Singleton.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Singleton.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Singleton.cs",
-              "RelativeToolTip": "Assets\\Script\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:20:51.109Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BackGroundMgr.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BackGroundMgr.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
-              "RelativeToolTip": "Assets\\Script\\BackGroundMgr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Title": "dialogue.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interaction\\dialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interaction\\dialogue.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interaction\\dialogue.cs",
+              "RelativeToolTip": "Assets\\Script\\Interaction\\dialogue.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwK8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:17:01.727Z",
+              "WhenOpened": "2025-01-18T11:18:50.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interactive_Items.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interactive_Items.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interactive_Items.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interactive_Items.cs",
+              "RelativeToolTip": "Assets\\Script\\Interactive_Items.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:50:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Singleton.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Script\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:20:51.109Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BackGroundMgr.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BackGroundMgr.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
+              "RelativeToolTip": "Assets\\Script\\BackGroundMgr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:17:01.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BackGround.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGround.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGround.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackGround.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGround.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGround.cs",
               "RelativeToolTip": "Assets\\Script\\BackGround.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UIManager.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BackpackUIController.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\BackpackUIController.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
               "RelativeToolTip": "Assets\\Script\\BackPack\\BackpackUIController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAUwHQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Backpack.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\Backpack.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
               "RelativeToolTip": "Assets\\Script\\BackPack\\Backpack.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAIwDkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Camera_Move.cs",
-              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
+              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Camera_Move.cs",
-              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
+              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
               "RelativeToolTip": "Assets\\Script\\Camera_Move.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAQwDgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
