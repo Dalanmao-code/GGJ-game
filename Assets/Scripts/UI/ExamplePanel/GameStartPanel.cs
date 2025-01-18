@@ -11,9 +11,10 @@ namespace UI.ExamplePanel
         public override void Init()
         {
             base.Init();
+
             GetControl<Button>("selectLevel").onClick.AddListener(() =>
             {
-                SelectLevelPanel.Instance.ShowMe();
+                HideMe();
             });
             GetControl<Button>("setting").onClick.AddListener(() =>
             {
