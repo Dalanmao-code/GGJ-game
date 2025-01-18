@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UI.ExamplePanel;
 using UnityEngine;
 
 public class RaycastClick : MonoBehaviour
@@ -19,10 +20,9 @@ public class RaycastClick : MonoBehaviour
         // 检测射线是否碰到物体
         if (hit.collider != null)
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0) && !FindCluePanel.Instance.isActiveAndEnabled)
             {
                 // 处理点击事件
-                
                 if(hit.collider.gameObject.GetComponent<Iinteract>()!=null)
                 {
                     Iinteract _t = hit.collider.gameObject.GetComponent<Iinteract>();
