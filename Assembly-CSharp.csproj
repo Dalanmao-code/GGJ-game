@@ -77,13 +77,14 @@
     <Compile Include="Assets\Script\RaycastClick.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DMaterialScaler.cs" />
     <Compile Include="Assets\Scripts\UI\BasePanel.cs" />
+    <Compile Include="Assets\Scripts\UI\ExamplePanel\SixToOnePanel.cs" />
     <Compile Include="Assets\Script\BackPack\BackpackUIController.cs" />
     <Compile Include="Assets\Scripts\UI\ExamplePanel\FindCluePanel.cs" />
     <Compile Include="Assets\Script\Singleton.cs" />
-    <Compile Include="Assets\Scripts\UI\ExamplePanel\SettingPanel.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DUpdateRenderTex.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DGrabRenderTex.cs" />
     <Compile Include="Assets\Script\Camera_Move.cs" />
+    <Compile Include="Assets\Script\ToggleCounter.cs" />
     <Compile Include="Assets\Script\Interactive_Items.cs" />
     <Compile Include="Assets\Script\BackGroundMgr.cs" />
     <Compile Include="Assets\Script\ItemDataArray.cs" />

@@ -19,7 +19,7 @@ namespace UI.ExamplePanel
             });
             GetControl<Button>("setting").onClick.AddListener(() =>
             {
-                SettingPanel.Instance.ShowMe();
+                SixToOnePanel.Instance.ShowMe();
             });
         }
 
