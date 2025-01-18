@@ -21,8 +21,9 @@ namespace UI.ExamplePanel
 
         private void Exit()
         {
-            UIManager.Instance.ClearPanels();
-            GameStartPanel.Instance.ShowMe();
+            Application.Quit();
+            /*UIManager.Instance.ClearPanels();
+            GameStartPanel.Instance.ShowMe();*/
         }
 
         public override void OnPressedEsc()

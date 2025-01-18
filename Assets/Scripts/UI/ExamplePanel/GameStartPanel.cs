@@ -15,6 +15,7 @@ namespace UI.ExamplePanel
             GetControl<Button>("selectLevel").onClick.AddListener(() =>
             {
                 HideMe();
+                GamePanel.Instance.ShowMe();
             });
             GetControl<Button>("setting").onClick.AddListener(() =>
             {
