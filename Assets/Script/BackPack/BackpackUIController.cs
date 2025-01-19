@@ -29,7 +29,13 @@ public class BackpackUIController : MonoBehaviour
         Backpack.AddItem(new Item(3, DataCenter.GetItemDataByID(3), 1));
         Backpack.AddItem(new Item(4, DataCenter.GetItemDataByID(4), 1));
         Backpack.AddItem(new Item(5, DataCenter.GetItemDataByID(5), 1));
-        Backpack.AddItem(new Item(100, DataCenter.GetItemDataByID(100), 1));
+
+        //Backpack.AddItem(new Item(100, DataCenter.GetItemDataByID(100), 1));
+        //Backpack.AddItem(new Item(4, DataCenter.GetItemDataByID(4), 1));
+        //Backpack.AddItem(new Item(21, DataCenter.GetItemDataByID(21), 1));
+        //Backpack.AddItem(new Item(23, DataCenter.GetItemDataByID(23), 1));
+        //Backpack.AddItem(new Item(25, DataCenter.GetItemDataByID(25), 1));
+        //Backpack.AddItem(new Item(44, DataCenter.GetItemDataByID(44), 1));
         BackpackUIController.notifyBackpackUpdated();
         initialize(this.gameObject.GetComponent<BackpackController>());
     }
