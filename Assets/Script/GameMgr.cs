@@ -6,7 +6,7 @@ using UnityEngine;
 public class GameMgr : Singleton<GameMgr>
 {
     private bool _canEnterExhibit;
-
+    public GameObject Display;
     private void Start()
     {
         GameStartPanel.Instance.ShowMe();
@@ -23,7 +23,7 @@ public class GameMgr : Singleton<GameMgr>
 
     public bool ObjectCanInteract()
     {
-        bool t= FindCluePanel.Instance.isActiveAndEnabled || DynamicToggleManager.Instance.isActiveAndEnabled ||
+        bool t= FindCluePanel.Instance.isActiveAndEnabled || Display.activeSelf ||
             SixToOnePanel.Instance.isActiveAndEnabled;
         return !t;
     }

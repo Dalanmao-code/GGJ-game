@@ -1,11 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using Core;
 using TMPro;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
-using static UnityEditor.Progress;
 
 namespace UI.ExamplePanel
 {
@@ -15,11 +15,13 @@ namespace UI.ExamplePanel
     public class SixToOnePanel : BasePanel<SixToOnePanel>
     {
         public List<GameObject> ClueBtns;
-        private List<int> rightList;
+        private List<int> rightList1;
+        private List<int> rightList2;
         private List<int> ids=new List<int>();
         public override void Init()
         {
-            rightList = new List<int> { 100, 4, 21, 23, 25, 44 };
+            rightList1 = new List<int> { 0, 5, 22, 24, 26, 45 };
+            rightList2 = new List<int> { 2, 34, 39, 42, 53, 54 };
             base.Init();
             GetControl<Button>("return").onClick.AddListener(HideMe);         
             GetControl<Button>("SixToOneBtn").onClick.AddListener(() =>
@@ -30,16 +32,28 @@ namespace UI.ExamplePanel
 
         private void SixToOneMethod()
         {
-            bool areEqual = new HashSet<int>(ids).SetEquals(rightList);
-            if(areEqual)
+            bool areEqual1 = new HashSet<int>(ids).SetEquals(rightList1);
+            bool areEqual2 = new HashSet<int>(ids).SetEquals(rightList2);
+            if(areEqual1)
             {
-                Backpack.AddItem(new Item(45, DataCenter.GetItemDataByID(45), 1));
+                Backpack.AddItem(new Item(45, DataCenter.GetItemDataByID(46), 1));
                 BackpackUIController.notifyBackpackUpdated();
-                Debug.Log("合成成功");
+                Debug.Log("合成成功46");
+            }
+            else if (areEqual2)
+            {
+                Backpack.AddItem(new Item(45, DataCenter.GetItemDataByID(56), 1));
+                BackpackUIController.notifyBackpackUpdated();
+                Debug.Log("合成成功56");
             }
             else
             {
-                Debug.Log("合成失败");
+                var common1 = new HashSet<int>(ids).Intersect(rightList1).Count();
+                var common2 = new HashSet<int>(ids).Intersect(rightList2).Count();
+                //匹配个数
+                var res = common1 > common2 ? common1 : common2;
+                //TODO 对话框说明一下
+                Debug.Log(res);
             }
         }
 
