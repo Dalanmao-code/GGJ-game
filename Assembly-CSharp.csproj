@@ -74,6 +74,7 @@
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DEffects.cs" />
     <Compile Include="Assets\Scripts\UI\ExamplePanel\GamePanel.cs" />
     <Compile Include="Assets\Script\Interaction\dialogue.cs" />
+    <Compile Include="Assets\Script\GameMgr.cs" />
     <Compile Include="Assets\Script\RaycastClick.cs" />
     <Compile Include="Assets\Raving Bots\Scripts\Water2D\Water2DMaterialScaler.cs" />
     <Compile Include="Assets\Scripts\UI\BasePanel.cs" />

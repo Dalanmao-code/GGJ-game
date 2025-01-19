@@ -20,6 +20,7 @@ public class DynamicToggleManager : Singleton<DynamicToggleManager>
     public void AddMyself(int id,Follow_ clue)
     {
         Clues.Add(id, clue);
+        CountEvent();
     }
 
     public void RemoveMyself(int id)
@@ -27,7 +28,7 @@ public class DynamicToggleManager : Singleton<DynamicToggleManager>
         Clues.Remove(id);
     }
 
-    public void Update()
+    public void CountEvent()
     {
         if(Clues.Count==6)
         {

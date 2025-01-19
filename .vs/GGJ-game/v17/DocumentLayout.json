@@ -1,70 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Fork_Clone\\GGJ\\GGJ-game\\",
+  "WorkspaceRootPath": "D:\\23gj\\25ggj\\GGJ-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\fork_clone\\ggj\\ggj-game\\assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\interacttochangebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interacttochangebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\interacttochangebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interacttochangebg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\togglecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\togglecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\togglecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\raycastclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\raycastclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backgroundmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\Fork_Clone\\GGJ\\GGJ-game\\assets\\script\\interaction\\get_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\interaction\\get_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interaction\\get_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,108 +82,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameOverPanel.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RaycastClick.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\RaycastClick.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RaycastClick.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\RaycastClick.cs",
+              "RelativeToolTip": "Assets\\Script\\RaycastClick.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T03:51:51.565Z",
+              "WhenOpened": "2025-01-19T04:12:25.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameMgr.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Script\\GameMgr.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:07:42.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GameStartPanel.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T03:49:56.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "ToggleCounter.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ToggleCounter.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
               "RelativeToolTip": "Assets\\Script\\ToggleCounter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T15:40:12.659Z"
+              "WhenOpened": "2025-01-18T15:40:12.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Follow_.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Follow_.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Follow_.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Follow_.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Follow_.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Follow_.cs",
               "RelativeToolTip": "Assets\\Script\\Follow_.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAUwIYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAawIIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T13:18:19.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FindCluePanel.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAUwJQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T12:08:04.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SixToOnePanel.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAABDAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "InteractToChangeBg.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\InteractToChangeBg.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InteractToChangeBg.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\InteractToChangeBg.cs",
+              "RelativeToolTip": "Assets\\Script\\InteractToChangeBg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T13:00:55.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotImportantObject.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\NotImportantObject.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
-              "RelativeToolTip": "Assets\\Script\\NotImportantObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T02:22:40.484Z",
+              "WhenOpened": "2025-01-18T11:21:30.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\GameOverPanel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:51:51.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SixToOnePanel.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:00:55.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotImportantObject.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NotImportantObject.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
+              "RelativeToolTip": "Assets\\Script\\NotImportantObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:22:40.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BackGround.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGround.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGround.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackGround.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGround.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGround.cs",
               "RelativeToolTip": "Assets\\Script\\BackGround.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAwEsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,37 +226,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "BackGroundMgr.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackGroundMgr.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
               "RelativeToolTip": "Assets\\Script\\BackGroundMgr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:17:01.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T10:17:01.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "OpenCluePanel.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\OpenCluePanel.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\OpenCluePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\OpenCluePanel.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\OpenCluePanel.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\OpenCluePanel.cs",
               "RelativeToolTip": "Assets\\Script\\OpenCluePanel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvwgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T12:11:52.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T12:11:52.038Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Get_Obj.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interaction\\Get_Obj.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Interaction\\Get_Obj.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Interaction\\Get_Obj.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Interaction\\Get_Obj.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Interaction\\Get_Obj.cs",
               "RelativeToolTip": "Assets\\Script\\Interaction\\Get_Obj.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAIwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,37 +262,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "BackpackUIController.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\BackpackUIController.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
               "RelativeToolTip": "Assets\\Script\\BackPack\\BackpackUIController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwE8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:36:38.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InteractToChangeBg.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\InteractToChangeBg.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\InteractToChangeBg.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\InteractToChangeBg.cs",
-              "RelativeToolTip": "Assets\\Script\\InteractToChangeBg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:21:30.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T18:36:38.481Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UIManager.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,29 +286,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Backpack.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\Backpack.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
               "RelativeToolTip": "Assets\\Script\\BackPack\\Backpack.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvzkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:31:27.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T18:31:27.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Camera_Move.cs",
-              "DocumentMoniker": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Camera_Move.cs",
-              "ToolTip": "D:\\Fork_Clone\\GGJ\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
               "RelativeToolTip": "Assets\\Script\\Camera_Move.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAzwDgAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwDgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T17:23:47.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T17:23:47.103Z"
             }
           ]
         }

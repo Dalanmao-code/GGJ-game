@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\23gj\\25ggj\\GGJ-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\sixtoonepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\follow_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\togglecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\togglecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\gamestartpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -97,7 +97,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
               "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\GameStartPanel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T03:49:56.378Z",
               "EditorCaption": ""
@@ -110,20 +110,20 @@
               "RelativeDocumentMoniker": "Assets\\Script\\ToggleCounter.cs",
               "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
               "RelativeToolTip": "Assets\\Script\\ToggleCounter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T15:40:12.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Follow_.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Follow_.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Follow_.cs",
               "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Follow_.cs",
               "RelativeToolTip": "Assets\\Script\\Follow_.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAawIIAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAawIIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T13:18:19.109Z",
               "EditorCaption": ""
@@ -143,13 +143,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SixToOnePanel.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
               "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T13:00:55.575Z",
               "EditorCaption": ""
@@ -164,8 +164,7 @@
               "RelativeToolTip": "Assets\\Script\\NotImportantObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T02:22:40.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T02:22:40.484Z"
             },
             {
               "$type": "Document",
@@ -177,8 +176,7 @@
               "RelativeToolTip": "Assets\\Script\\BackGround.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAwEsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T17:27:13.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T17:27:13.514Z"
             },
             {
               "$type": "Document",
@@ -190,8 +188,7 @@
               "RelativeToolTip": "Assets\\Script\\BackGroundMgr.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T10:17:01.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T10:17:01.727Z"
             },
             {
               "$type": "Document",
