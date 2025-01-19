@@ -30,8 +30,11 @@ public class dialogue : MonoBehaviour
     private float Timer_l5;//私有计时器总和
 
     private GameObject localDia;
+    private Coroutine coroutine;
+
     [Header("储存类")]
     [SerializeField] public TextMeshProUGUI text_pro;
+    
 
     [Header("Ai类")]
     [SerializeField] public float typingSpeed;
@@ -40,6 +43,7 @@ public class dialogue : MonoBehaviour
     void Start()
     {
         local_dialogue_Number = 1;
+        text_pro.gameObject.transform.parent.gameObject.SetActive(true);
         //将用户输入的时间累加变为私有计时器
         Timer_l1 = Timer_s1;
         Timer_l2 = Timer_s2+Timer_s1;
@@ -58,7 +62,7 @@ public class dialogue : MonoBehaviour
             if (Timer == 0&& local_dialogue_Number==1) {
 
                 text_pro.text = "";
-                StartCoroutine(TypeText(text_pro, s1));
+                coroutine = StartCoroutine(TypeText(text_pro, s1));
                 Timer += Time.deltaTime;
                 
             }
@@ -77,7 +81,8 @@ public class dialogue : MonoBehaviour
             if (Timer == Timer_l1 && local_dialogue_Number == 2)
             {
                 text_pro.text = "";
-                StartCoroutine(TypeText(text_pro, s2));
+                StopCoroutine(coroutine);
+                coroutine = StartCoroutine(TypeText(text_pro, s2));
                 Timer += Time.deltaTime;
             }
             if (Timer > Timer_l1 && Timer < Timer_l2)
@@ -95,7 +100,8 @@ public class dialogue : MonoBehaviour
             if (Timer == Timer_l2 && local_dialogue_Number == 3)
             {
                 text_pro.text = "";
-                StartCoroutine(TypeText(text_pro, s3));
+                StopCoroutine(coroutine);
+                coroutine = StartCoroutine(TypeText(text_pro, s3));
                 Timer += Time.deltaTime;
             }
             if (Timer > Timer_l2 && Timer < Timer_l3)
@@ -113,7 +119,8 @@ public class dialogue : MonoBehaviour
             if (Timer == Timer_l3 && local_dialogue_Number == 4)
             {
                 text_pro.text = "";
-                StartCoroutine(TypeText(text_pro, s4));
+                StopCoroutine(coroutine);
+                coroutine = StartCoroutine(TypeText(text_pro, s4));
                 Timer += Time.deltaTime;
             }
             if (Timer > Timer_l3 && Timer < Timer_l4)
@@ -131,7 +138,8 @@ public class dialogue : MonoBehaviour
             if (Timer == Timer_l4 && local_dialogue_Number == 5)
             {
                 text_pro.text = "";
-                StartCoroutine(TypeText(text_pro, s5));
+                StopCoroutine(coroutine);
+                coroutine = StartCoroutine(TypeText(text_pro, s5));
                 Timer += Time.deltaTime;
             }
             if (Timer > Timer_l4 && Timer < Timer_l5)
@@ -141,6 +149,7 @@ public class dialogue : MonoBehaviour
                 {
                     local_dialogue_Number++;
                     Timer = Timer_l5;
+                    StopCoroutine(coroutine);
                     return;
                 }
             }
@@ -151,7 +160,7 @@ public class dialogue : MonoBehaviour
         {
             if (Next_dialogue_Number == -1)
             {
-             
+                text_pro.gameObject.transform.parent.gameObject.SetActive(false);
                 Destroy(this);
             }
             else
