@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\23gj\\25ggj\\GGJ-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\notimportantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\opencluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\examplepanel\\findcluepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|d:\\23gj\\25ggj\\ggj-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|D:\\23gj\\25ggj\\GGJ-game\\assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821846BF-B7D1-3BB1-4D41-FDF9F5FC65B5}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backpack\\backpackuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Iinteract.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Iinteract.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Iinteract.cs",
@@ -87,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DataCenter.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\DataCenter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\DataCenter.cs",
@@ -100,7 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "NotImportantObject.cs",
+              "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NotImportantObject.cs",
+              "ToolTip": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\NotImportantObject.cs",
+              "RelativeToolTip": "Assets\\Script\\NotImportantObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T02:22:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ToggleCounter.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\ToggleCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ToggleCounter.cs",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BackGround.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGround.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackGround.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BackGroundMgr.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackGroundMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackGroundMgr.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SixToOnePanel.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\SixToOnePanel.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Follow_.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Follow_.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Follow_.cs",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OpenCluePanel.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\OpenCluePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\OpenCluePanel.cs",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FindCluePanel.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
@@ -181,12 +198,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\ExamplePanel\\FindCluePanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T12:08:04.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T12:08:04.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Get_Obj.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Interaction\\Get_Obj.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Interaction\\Get_Obj.cs",
@@ -198,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BackpackUIController.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\BackpackUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\BackpackUIController.cs",
@@ -206,12 +222,11 @@
               "RelativeToolTip": "Assets\\Script\\BackPack\\BackpackUIController.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAmwE8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:36:38.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T18:36:38.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InteractToChangeBg.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\InteractToChangeBg.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InteractToChangeBg.cs",
@@ -223,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
@@ -235,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Backpack.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\BackPack\\Backpack.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BackPack\\Backpack.cs",
@@ -247,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Camera_Move.cs",
               "DocumentMoniker": "D:\\23gj\\25ggj\\GGJ-game\\Assets\\Script\\Camera_Move.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Camera_Move.cs",
