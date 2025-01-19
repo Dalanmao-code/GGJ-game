@@ -21,6 +21,7 @@ namespace UI.ExamplePanel
 
         private void Exit()
         {
+            Debug.Log("退出游戏");
             Application.Quit();
             /*UIManager.Instance.ClearPanels();
             GameStartPanel.Instance.ShowMe();*/

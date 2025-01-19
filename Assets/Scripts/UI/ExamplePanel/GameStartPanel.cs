@@ -17,10 +17,10 @@ namespace UI.ExamplePanel
                 HideMe();
                 GamePanel.Instance.ShowMe();
             });
-            GetControl<Button>("setting").onClick.AddListener(() =>
+/*            GetControl<Button>("setting").onClick.AddListener(() =>
             {
                 SixToOnePanel.Instance.ShowMe();
-            });
+            });*/
         }
 
         public override void OnPressedEsc()

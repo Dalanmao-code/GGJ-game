@@ -1,11 +1,14 @@
 ﻿using Core;
 using System.Collections;
 using System.Collections.Generic;
+using UI.ExamplePanel;
 using Unity.VisualScripting;
 using UnityEngine;
 
 public class Follow_: MonoBehaviour
 {
+    public GameObject Img;
+
     [Header("数值类")]
     [SerializeField]public float Box_size_long;//设置移动框大小
     [SerializeField]public float Box_size_wight;//设置移动框大小
@@ -27,7 +30,6 @@ public class Follow_: MonoBehaviour
     void Start()
     {
         StartPosition = this.transform.localPosition;
-        
     }
 
     // Update is called once per frame
@@ -54,6 +56,19 @@ public class Follow_: MonoBehaviour
         Vector3 position = this.gameObject.transform.position;
         float mouseY = Camera.main.ScreenToWorldPoint(Input.mousePosition).y;
         float mouseX = Camera.main.ScreenToWorldPoint(Input.mousePosition).x;
+
+        if (Input.GetMouseButtonDown(1) && mouseY >= position.y - Box_size_wight / 2 && mouseY <= position.y + Box_size_wight / 2 && mouseX >= position.x - Box_size_long / 2 && mouseX <= position.x + Box_size_long / 2)
+        {
+            if (!Img.activeSelf)
+            {
+                DynamicToggleManager.Instance.AddMyself(local_id, this);
+            }
+            else
+            {
+                DynamicToggleManager.Instance.RemoveMyself(local_id);
+            }
+            Img.SetActive(!Img.activeSelf);
+        }
 
         if (Input.GetMouseButtonDown(0) && mouseY >= position.y - Box_size_wight / 2 && mouseY <= position.y + Box_size_wight / 2 && mouseX >= position.x - Box_size_long / 2 && mouseX <= position.x + Box_size_long / 2)
         {
