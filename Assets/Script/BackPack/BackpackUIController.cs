@@ -18,6 +18,7 @@ public class BackpackUIController : MonoBehaviour
     private GameObject[] lattices = new GameObject[100];
     //最大格子数
     public static int MAXLATTICE = 8;
+    public GameObject linshi;
 
     private bool IsOpen = false; 
     void Start()
@@ -107,11 +108,13 @@ public class BackpackUIController : MonoBehaviour
         if (IsOpen)
         {
             backpack_uicontent.gameObject.SetActive(false);
+            linshi.SetActive(false);
             IsOpen = !IsOpen;
         }
         else
         {
             backpack_uicontent.gameObject.SetActive(true);
+            linshi.SetActive(true);
             IsOpen = !IsOpen;
         }
     }
