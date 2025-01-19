@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UI.ExamplePanel;
 using UnityEngine;
 
+[RequireComponent(typeof(BoxCollider2D))]
 public class OpenCluePanel : MonoBehaviour,Iinteract
 {
     public string path;
