@@ -18,7 +18,7 @@ namespace UI.ExamplePanel
         private List<int> ids=new List<int>();
         public override void Init()
         {
-            rightList = new List<int> { 2, 34, 39, 42, 53, 54 };
+            rightList = new List<int> { 100, 4, 21, 23, 25, 44 };
             base.Init();
             GetControl<Button>("return").onClick.AddListener(HideMe);         
             GetControl<Button>("SixToOneBtn").onClick.AddListener(() =>
@@ -32,6 +32,8 @@ namespace UI.ExamplePanel
             bool areEqual = new HashSet<int>(ids).SetEquals(rightList);
             if(areEqual)
             {
+                Backpack.AddItem(new Item(45, DataCenter.GetItemDataByID(45), 1));
+                BackpackUIController.notifyBackpackUpdated();
                 Debug.Log("合成成功");
             }
             else

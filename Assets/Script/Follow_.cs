@@ -15,6 +15,7 @@ public class Follow_: MonoBehaviour
     [SerializeField] public int pairing_id = -1;
     [SerializeField] public int target_id = -1;
     [SerializeField] public int local_id = -1;
+    
     private bool isMouseDown = false;
     private Vector3 lastMousePosition = Vector3.zero;
 
@@ -25,6 +26,7 @@ public class Follow_: MonoBehaviour
     private float Timer = 0;
     private bool IsEnter = false;
     private GameObject linshi;
+    public OpenCluePanel wuzi;
 
     // Start is called before the first frame update
     void Start()
@@ -130,12 +132,17 @@ public class Follow_: MonoBehaviour
     {
         if (linshi.GetComponent<Follow_>().local_id == pairing_id && Input.GetMouseButtonUp(0))
         {
+            if (local_id == 0)
+            {
+                wuzi.Tracing_id = 44;
+            }
             Homing();
             linshi.GetComponent<Follow_>().Homing();
             Backpack.AddItem(new Item(local_id, DataCenter.GetItemDataByID(local_id), -1));
             Backpack.AddItem(new Item(pairing_id, DataCenter.GetItemDataByID(pairing_id), -1));
             Backpack.AddItem(new Item(target_id, DataCenter.GetItemDataByID(target_id), 1));
             BackpackUIController.notifyBackpackUpdated();
+           
         }
     }
 
