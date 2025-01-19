@@ -67,8 +67,8 @@ MonoBehaviour:
     description: 
     iconFileName: 
     IsImportant: 1
-    pairing_id: -1
-    target_id: -1
+    pairing_id: 8
+    target_id: 53
   - id: 8
     text: "\u73BB\u7483\u74F6\uFF1A1\u9053J\u7684\u6307\u7EB9"
     description: 
@@ -130,8 +130,8 @@ MonoBehaviour:
     description: 
     iconFileName: 
     IsImportant: 1
-    pairing_id: -1
-    target_id: -1
+    pairing_id: 46
+    target_id: 47
   - id: 19
     text: "\u5956\u676F:\u51E0\u5C0F\u65F6\u524D\u66FE\u88AB\u4F7F\u7528\u8FC7"
     description: 
@@ -249,8 +249,8 @@ MonoBehaviour:
     description: 
     iconFileName: 
     IsImportant: 1
-    pairing_id: -1
-    target_id: -1
+    pairing_id: 47
+    target_id: 49
   - id: 38
     text: "\u82B1\u74F6\uFF1A3\u4E2A\u6708\u524DJ\u548CK\u7684\u624B\u5370\uFF0C\u6709\u88AB\u79FB\u52A8\u7684\u75D5\u8FF9"
     description: 
@@ -263,8 +263,8 @@ MonoBehaviour:
     description: 
     iconFileName: 
     IsImportant: 1
-    pairing_id: -1
-    target_id: -1
+    pairing_id: 50
+    target_id: 51
   - id: 41
     text: "\u73BB\u7483\u96D5\u50CF\uFF1A3\u4E2A\u6708\u524DJ\u548CK\u7684\u624B\u5370\uFF0C\u6709\u88AB\u79FB\u52A8\u7684\u75D5\u8FF9"
     description: 
@@ -337,6 +337,62 @@ MonoBehaviour:
     target_id: -1
   - id: 50
     text: "\u82B1\u74F6\u548C\u73BB\u7483\u96D5\u50CF\u89E6\u78B0\u8FC7"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 51
+    text: "\u82B1\u74F6\u88AB\u73BB\u7483\u96D5\u50CF\u5F3A\u5316\u8FC7\uFF0C\u56E0\u6B64\u80FD\u8DE8\u8D8A\u8303\u56F4\u5236\u9020\u5E7B\u8C61\u3002"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 52
+    text: "\u73BB\u7483\u96D5\u50CF\u7ED92\u4E2A\u4EBA\u5F3A\u5316\u8FC7"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 53
+    text: "J\u51E0\u5206\u949F\u524D\u8FD8\u6D3B\u7740\u3002"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 54
+    text: "\u73BB\u7483\u74F6\u88AB\u4EBA\u5E26\u5230\u8FC7\u522B\u7684\u5730\u65B9"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 55
+    text: "J\u7684\u5F02\u80FD\u4E3A\u65F6\u95F4\u7CFB\u3002"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 56
+    text: "\u5DE5\u4F5C\u5BA4\u73BB\u7483\u74F6\u4E2D\u7684\u6DB2\u4F53\u88AB\u5582\u7ED9\u4E86R\u3002"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 57
+    text: "\u4FDD\u59C6\u6CA1\u6709\u5ACC\u7591"
+    description: 
+    iconFileName: 
+    IsImportant: 1
+    pairing_id: -1
+    target_id: -1
+  - id: 58
+    text: "J\u60F3\u8981\u53BB\u6551\u4ED6\u7684\u59BB\u5B50R"
     description: 
     iconFileName: 
     IsImportant: 1
